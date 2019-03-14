@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="MyNotes/Base.lproj/LaunchScreen.storyboard" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="G7z-je-mFd.text">
+        <source>Add your notes...</source>
+        <note>Class = "UILabel"; text = "Add your notes..."; ObjectID = "G7z-je-mFd";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyNotes/Base.lproj/Main.storyboard" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="GEW-Hd-0gD.title">
+        <source>Add reminder</source>
+        <note>Class = "UINavigationItem"; title = "Add reminder"; ObjectID = "GEW-Hd-0gD";</note>
+      </trans-unit>
+      <trans-unit id="HE3-Ga-1lO.title">
+        <source>Item</source>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "HE3-Ga-1lO";</note>
+      </trans-unit>
+      <trans-unit id="LiD-K8-3xs.title">
+        <source>Item</source>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "LiD-K8-3xs";</note>
+      </trans-unit>
+      <trans-unit id="NgT-bu-bLZ.text">
+        <source>added text from fers step</source>
+        <note>Class = "UILabel"; text = "added text from fers step"; ObjectID = "NgT-bu-bLZ";</note>
+      </trans-unit>
+      <trans-unit id="U9V-0P-8MH.title">
+        <source>Item</source>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "U9V-0P-8MH";</note>
+      </trans-unit>
+      <trans-unit id="X9b-aD-HJ3.text">
+        <source>Your note</source>
+        <note>Class = "UILabel"; text = "Your note"; ObjectID = "X9b-aD-HJ3";</note>
+      </trans-unit>
+      <trans-unit id="YVh-3K-lYq.text">
+        <source>When do you need to remind?</source>
+        <note>Class = "UILabel"; text = "When do you need to remind?"; ObjectID = "YVh-3K-lYq";</note>
+      </trans-unit>
+      <trans-unit id="brG-1S-MSg.title">
+        <source>Add new note</source>
+        <note>Class = "UINavigationItem"; title = "Add new note"; ObjectID = "brG-1S-MSg";</note>
+      </trans-unit>
+      <trans-unit id="cq6-S0-Vf1.placeholder">
+        <source>Write your note...</source>
+        <note>Class = "UITextField"; placeholder = "Write your note..."; ObjectID = "cq6-S0-Vf1";</note>
+      </trans-unit>
+      <trans-unit id="f3Z-XF-rk9.text">
+        <source>Reminder</source>
+        <note>Class = "UILabel"; text = "Reminder"; ObjectID = "f3Z-XF-rk9";</note>
+      </trans-unit>
+      <trans-unit id="i6X-sq-nWz.text">
+        <source>If you are finished click save...</source>
+        <note>Class = "UILabel"; text = "If you are finished click save..."; ObjectID = "i6X-sq-nWz";</note>
+      </trans-unit>
+      <trans-unit id="il9-Hy-U68.text">
+        <source>Here you can add your notes...</source>
+        <note>Class = "UILabel"; text = "Here you can add your notes..."; ObjectID = "il9-Hy-U68";</note>
+      </trans-unit>
+      <trans-unit id="k0y-zk-xPF.title">
+        <source>Item</source>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "k0y-zk-xPF";</note>
+      </trans-unit>
+      <trans-unit id="m34-Ob-Rc4.text">
+        <source>Remind me about...</source>
+        <note>Class = "UILabel"; text = "Remind me about..."; ObjectID = "m34-Ob-Rc4";</note>
+      </trans-unit>
+      <trans-unit id="nkL-fk-0QV.title">
+        <source>All notes</source>
+        <note>Class = "UINavigationItem"; title = "All notes"; ObjectID = "nkL-fk-0QV";</note>
+      </trans-unit>
+      <trans-unit id="q4f-Ge-LGM.text">
+        <source>If you need remind you need press that button...</source>
+        <note>Class = "UILabel"; text = "If you need remind you need press that button..."; ObjectID = "q4f-Ge-LGM";</note>
+      </trans-unit>
+      <trans-unit id="xo9-fS-7p3.title">
+        <source>Item</source>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "xo9-fS-7p3";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyNotes/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyNotes/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.4.1" build-num="9F2000"/>
+    </header>
+    <body>
+        
+      <trans-unit id="Add new note">
+        <source>Add new note</source>
+        <target>Добавить новую записть</target>
+        <note>Name of page where user add new note</note>
+      </trans-unit>
+      
+      <trans-unit id="Add reminder">
+        <source>Add reminder</source>
+        <target>Добавить напоминание</target>
+        <note>If user want to add reminder him need pres to the button</note>
+      </trans-unit>
+      
+      <trans-unit id="All notes">
+        <source>All notes</source>
+        <target>Все записи</target>
+        <note>Name of title</note>
+      </trans-unit>
+      
+      <trans-unit id="Here you can add your notes...">
+        <source>Here you can add your notes...</source>
+        <target>Здесь храняться все записи...</target>
+        <note>The text explains what the user should do here</note>
+      </trans-unit>
+      
+      <trans-unit id="If you are finished click save...">
+        <source>If you are finished click save...</source>
+        <target>Когда закончите сохраните</target>
+        <note>Save all user changes to DB</note>
+      </trans-unit>
+      
+      <trans-unit id="If you need remind you need press that button...">
+        <source>If you need remind you need press that button...</source>
+        <target>Нажмите если вам нужно напоминение...</target>
+        <note>Thes is hint wil help  user will understand what him need to do if hi want add reminder</note>
+      </trans-unit>
+      
+      <trans-unit id="No thanks">
+        <source>No thanks</source>
+        <target>Не спасибо</target>
+        <note>If user dont want to add reminder him need pres to the button</note>
+      </trans-unit>
+      
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>Хорошо</target>
+        <note>Button name</note>
+      </trans-unit>
+      
+      <trans-unit id="Ooops">
+        <source>Ooops</source>
+        <target>Уууупс</target>
+        <note>Error if text field is empty</note>
+      </trans-unit>
+      
+      <trans-unit id="Remind me about...">
+        <source>Remind me about...</source>
+        <target>Напомнить мне о...</target>
+        <note>Will help user understand about what him need to remind</note>
+      </trans-unit>
+      
+      <trans-unit id="Remind you">
+        <source>Remind you</source>
+        <target>Напомнить вам</target>
+        <note>You added reminder with date</note>
+      </trans-unit>
+      
+      <trans-unit id="You dont added note title">
+          <source>You dont added note title</source>
+          <target>Название не может быть пустым</target>
+          <note>Note title is empty</note>
+      </trans-unit>
+      
+      <trans-unit id="Reminder Off">
+        <source>Reminder Off</source>
+        <target>Добавить напоминание</target>
+        <note>Remind will not aded</note>
+      </trans-unit>
+      
+      <trans-unit id="When do you need to remind?">
+        <source>When do you need to remind?</source>
+        <target>Когда нужно напомнить?</target>
+        <note>Will help user understand when he want to get notification</note>
+      </trans-unit>
+      
+      <trans-unit id="Write your note...">
+        <source>Write your note...</source>
+        <target>Сделайте записть...</target>
+        <note>Placeholder text field</note>
+      </trans-unit>
+      
+      <trans-unit id="You did't add reminde">
+        <source>You did't add reminde</source>
+        <target>Напоминание не добавлено</target>
+        <note>If user don't wanted add reminde</note>
+      </trans-unit>
+      
+      <trans-unit id="You didn't add reminder">
+        <source>You didn't add reminder</source>
+        <target>Напоминание не добавлено</target>
+        <note>User don't added reminder</note>
+      </trans-unit>
+      
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,51 @@
+/* Name of page where user add new note */
+"Add new note" = "Добавить новую записть";
+
+/* If user want to add reminder him need pres to the button */
+"Add reminder" = "Добавить напоминание";
+
+/* Name of title */
+"All notes" = "Все записи";
+
+/* The text explains what the user should do here */
+"Here you can add your notes..." = "Здесь храняться все записи...";
+
+/* Save all user changes to DB */
+"If you are finished click save..." = "Когда закончите сохраните";
+
+/* Thes is hint wil help  user will understand what him need to do if hi want add reminder */
+"If you need remind you need press that button..." = "Нажмите если вам нужно напоминение...";
+
+/* If user dont want to add reminder him need pres to the button */
+"No thanks" = "Не спасибо";
+
+/* Button name */
+"OK" = "Хорошо";
+
+/* Error if text field is empty */
+"Ooops" = "Уууупс";
+
+/* Will help user understand about what him need to remind */
+"Remind me about..." = "Напомнить мне о...";
+
+/* You added reminder with date */
+"Remind you" = "Напомнить вам";
+
+/* Remind will not aded */
+"Reminder Off" = "Добавить напоминание";
+
+/* Will help user understand when he want to get notification */
+"When do you need to remind?" = "Когда нужно напомнить?";
+
+/* Placeholder text field */
+"Write your note..." = "Сделайте записть...";
+
+/* If user don't wanted add reminde */
+"You did't add reminde" = "Напоминание не добавлено";
+
+/* User don't added reminder */
+"You didn't add reminder" = "Напоминание не добавлено";
+
+/* Note title is empty */
+"You dont added note title" = "Название не может быть пустым";
+
